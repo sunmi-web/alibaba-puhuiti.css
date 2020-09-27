@@ -1,4 +1,5 @@
 @font-face {
   font-family: "Alibaba-PuHuiTi-Heavy";
-  src: url("./Alibaba-PuHuiTi-Heavy.ttf") format("truetype");
+  src: url("//static.cdn.sunmi.com/assets/fonts/Alibaba-PuHuiTi-Heavy.ttf")
+    format("truetype");
 }
